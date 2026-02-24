@@ -8,4 +8,4 @@ Chào mừng bạn đến với repo lưu trữ CV cá nhân của tôi. Đây l
 - **Ngành nghề:** Lập trình viên / Back-end Developer
 - **Mục tiêu nghề nghiệp:** Fullstack developer
 - **Email:** doduongdangkhoa1103@gmail.com / khoaddd1103@gmail.com
-- **Website/Portfolio:** Linkedin(https://www.linkedin.com/in/doduongdangkhoa1103/)
+- **Website/Portfolio:** [LinkedIn](https://www.linkedin.com/in/doduongdangkhoa1103/)
