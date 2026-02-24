@@ -1,4 +1,4 @@
-# CV của [Tên của bạn]
+# CV của Đỗ Dương Đăng Khoa
 
 Chào mừng bạn đến với repo lưu trữ CV cá nhân của tôi. Đây là nơi tôi lưu trữ và cập nhật các phiên bản CV của mình.
 
